@@ -93,11 +93,11 @@
         <String>Modification Date</String>
     </prefList>
     <prefGroup key="Human motion analysis and annotation">
-        <pref key="output_video_resolution">
-            <String>half</String>
-        </pref>
         <pref key="background_image">
             <String>false</String>
+        </pref>
+        <pref key="output_video_resolution">
+            <String>half</String>
         </pref>
         <pref key="use_single_cluster">
             <String>false</String>
@@ -109,15 +109,20 @@
             <String>normal</String>
         </pref>
         <prefGroup key="input_xml"/>
-        <pref key="use_rest_position">
-            <String>false</String>
-        </pref>
         <pref key="change_threshold">
             <Float>30.0</Float>
+        </pref>
+        <pref key="use_rest_position">
+            <String>false</String>
         </pref>
     </prefGroup>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap"/>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <pref key="TM.SignalViewer.ZoomLevel">
+        <Float>16.0</Float>
     </pref>
     <pref key="MediaControlVolume">
         <Float>1.0</Float>
@@ -135,11 +140,11 @@
         <pref key="ref@VPC-M-1993">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="comment">
-            <Object class="java.awt.Color">160,90,160</Object>
-        </pref>
         <pref key="part">
             <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+        <pref key="comment">
+            <Object class="java.awt.Color">160,90,160</Object>
         </pref>
     </prefGroup>
     <prefList key="CommentViewer.Columns.Hidden">
@@ -158,12 +163,30 @@
     <pref key="LayoutManager.CurrentMode">
         <Int>2</Int>
     </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="ref@AXH-M-1979">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="ref@NTP-M-1986">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+        <pref key="ref@VPC-M-1993">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="comment">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="part">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+    </prefGroup>
     <pref key="MediaTime">
         <Long>4280</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
     <pref key="MediaControlRate">
         <Float>1.0</Float>
     </pref>
@@ -183,11 +206,11 @@
         <String>part</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
-        <pref key="Modification Date">
-            <Int>75</Int>
-        </pref>
         <pref key="Sender">
             <Int>0</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
         </pref>
         <pref key="Tier">
             <Int>75</Int>
@@ -198,31 +221,31 @@
         <pref key="Initials">
             <Int>75</Int>
         </pref>
-        <pref key="Comment">
+        <pref key="Start Time">
             <Int>75</Int>
         </pref>
         <pref key="End Time">
             <Int>75</Int>
         </pref>
-        <pref key="Start Time">
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
             <Int>0</Int>
         </pref>
-        <pref key="Thread">
-            <Int>75</Int>
-        </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>-100</Long>
+        <Long>0</Long>
     </pref>
-    <pref key="LayoutManager.MediaAreaHeight">
-        <Int>377</Int>
-    </pref>
-    <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="ActiveAudioRecognizerName">
         <String>Text-to-Speech alignment</String>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>377</Int>
     </pref>
     <pref key="LayoutManager.MediaAreaWidth">
         <Int>417</Int>
