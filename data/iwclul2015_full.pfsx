@@ -132,11 +132,11 @@
         <pref key="ref@VPC-M-1993">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="part">
-            <Object class="java.awt.Color">90,90,0</Object>
-        </pref>
         <pref key="comment">
             <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="part">
+            <Object class="java.awt.Color">90,90,0</Object>
         </pref>
     </prefGroup>
     <prefList key="CommentViewer.Columns.Hidden">
@@ -201,6 +201,9 @@
     </prefGroup>
     <pref key="TimeScaleBeginTime">
         <Long>-100</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>377</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="ActiveAudioRecognizerName">
