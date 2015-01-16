@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-01-16T11:57:53+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-01-16T12:43:02+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/niko/iwclul2015/media/iwclul2015.m4v" MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../media/iwclul2015.m4v"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/niko/iwclul2015/media/iwclul2015.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../media/iwclul2015.wav"/>
@@ -407,7 +407,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>I already tend to change them at the age of twenty.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>At the age of twenty they've already become old.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -417,7 +417,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>One year counts as four for it.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>One of its years counts as four.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -426,27 +426,27 @@
     <TIER LINGUISTIC_TYPE_REF="ft-rusT" PARENT_REF="orth@AXH-M-1979" PARTICIPANT="AXH-M-1979" TIER_ID="ft-rus@AXH-M-1979">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>Ну , у нас до глубокой старости лошади не живут .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ну, у нас до глубокой старости лошади не живут.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>Их стараются раньше менять .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Их стараются раньше менять.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>До двадцати лет уже стараются заменить .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>До двадцати лет уже стараются заменить.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a18">
-                <ANNOTATION_VALUE>Так - то считается , у лошади двадцать пять лет - это как у человека сто лет .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Так - то считается, у лошади двадцать пять лет - это как у человека сто лет.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>У нее один год за четыре идет .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>У нее один год за четыре идет.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -557,22 +557,22 @@
     <TIER LINGUISTIC_TYPE_REF="ft-rusT" PARENT_REF="orth@NTP-M-1986" PARTICIPANT="NTP-M-1986" TIER_ID="ft-rus@NTP-M-1986">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>Лошадь - она до скольки лет живет ?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Лошадь - она до скольки лет живет?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>Мм .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Мм.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a23">
-                <ANNOTATION_VALUE>А , да .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>А, да.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>Понятно .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Понятно.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -683,22 +683,22 @@
     <TIER LINGUISTIC_TYPE_REF="ft-rusT" PARENT_REF="orth@VPC-M-1993" PARTICIPANT="VPC-M-1993" TIER_ID="ft-rus@VPC-M-1993">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>До скольки лет живет лошадь ?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>До скольки лет живет лошадь?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a26">
-                <ANNOTATION_VALUE>Мм .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Мм.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a27">
-                <ANNOTATION_VALUE>Старая .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Старая.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>Один год - четыре года .</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Один год - четыре года.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

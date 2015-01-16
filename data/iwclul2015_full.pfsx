@@ -119,6 +119,9 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
+    <pref key="MediaControlVolume">
+        <Float>1.0</Float>
+    </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>8</Int>
     </pref>
@@ -146,11 +149,14 @@
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,23</Object>
     </pref>
+    <pref key="TranscriptionTable.LastActiveRow">
+        <Int>21</Int>
+    </pref>
     <pref key="SelectionBeginTime">
         <Long>267</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+        <Int>2</Int>
     </pref>
     <pref key="MediaTime">
         <Long>4280</Long>
@@ -158,11 +164,20 @@
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
     </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>381.0</Float>
+    </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1280,773</Object>
+    </pref>
+    <pref key="TranscriptionTable.LastActiveColumn">
+        <String>Type2 : ft-rusT</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>part</String>
@@ -208,6 +223,9 @@
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="ActiveAudioRecognizerName">
         <String>Text-to-Speech alignment</String>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>417</Int>
     </pref>
     <pref key="SelectionEndTime">
         <Long>2812</Long>
